@@ -106,7 +106,7 @@ The platform centralizes several internal business processes including inventory
 ## 🤝 Connect with Me
 
 <p>
-  <a href="TU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/alberto-rodr%C3%ADguez-zamorano-55ab14187/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
